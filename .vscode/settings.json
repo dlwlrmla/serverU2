@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "database-1.cffzsiwgouqa.eu-north-1.rds.amazonaws.com",
+            "port": 1433,
+            "askForPassword": true,
+            "driver": "MSSQL",
+            "name": "s1",
+            "database": "proyecto",
+            "username": "admin"
+        }
+    ]
+}
